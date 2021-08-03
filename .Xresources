@@ -1,0 +1,39 @@
+XTerm*termName: xterm-256color
+XTerm*cursorBlink: true
+XTerm*fastScroll: true
+Xterm*ScrollKey: true
+XTerm*saveLines: 100000
+
+XTerm*faceName: "DejaVu Sans Mono"
+XTerm*renderFont: true
+XTerm*utf8: true
+XTerm*faceSize: 12
+XTerm*faceSize1: 10
+XTerm*faceSize2: 11
+XTerm*faceSize3: 12
+XTerm*faceSize4: 14
+XTerm*faceSize5: 16
+XTerm*faceSize6: 18
+
+!XTerm*background: rgb:00/20/00
+!XTerm*foreground: rgb:00/80/00
+
+!Theme Eleven
+XTerm*background: rgb:33/33/33
+XTerm*foreground: rgb:ff/ff/ff
+XTerm*color0:     rgb:33/33/33
+XTerm*color8:     rgb:33/33/33
+XTerm*color1:     rgb:ff/a0/a0
+XTerm*color9:     rgb:ff/a0/a0
+XTerm*color2:     rgb:98/fb/98
+XTerm*color10:    rgb:9a/cd/32
+XTerm*color3:     rgb:f0/e6/8c
+XTerm*color11:    rgb:f0/e6/8c
+XTerm*color4:     rgb:87/ce/eb
+XTerm*color12:    rgb:87/ce/eb
+XTerm*color5:     rgb:ff/a0/a0
+XTerm*color13:    rgb:ff/a0/a0
+XTerm*color6:     rgb:87/ce/eb
+XTerm*color14:    rgb:87/ce/eb
+XTerm*color7:     rgb:ff/ff/ff
+XTerm*color15:    rgb:ff/ff/ff
